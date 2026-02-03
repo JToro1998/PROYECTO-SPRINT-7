@@ -1,4 +1,4 @@
-🚗Automotive Market Intelligence Dashboard (Python & Streamlit) 
+# 🚗Automotive Market Intelligence Dashboard (Python & Streamlit) 
 
 📌 Project Overview
 This project is an end-to-end Data Science application designed to analyze a massive dataset of 51,000+ vehicle records. Using Python and Streamlit, I developed an interactive tool that allows users to explore market trends, price drivers, and vehicle specifications in real-time.
